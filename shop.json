@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Капучино",
+    "vendor_code": "1",
+    "description": "Классика кофейного мира",
+    "price": 6,
+    "img": "https://imgs.coffeemania.ru/4058/300x200.jpg?p=14468d4b1838f72"
+  },
+  {
+    "id": "2",
+    "title": "Американо",
+    "vendor_code": "2",
+    "description": "Для тех, кому нужна сильная встряска утром",
+    "price": 4,
+    "img": "https://imgs.coffeemania.ru/821452/300x200.jpg?p=e31bbc7e91c0fd8"
+  },
+  {
+    "id": "3",
+    "title": "Эспрессо",
+    "vendor_code": "3",
+    "description": "Чистый кофе и ничего лишнего",
+    "price": 35,
+    "img": "https://imgs.coffeemania.ru/3/300x200.jpg?p=e34bbef4a71e8be"
+  },
+  {
+    "id": "4",
+    "title": "Латте",
+    "vendor_code": "4",
+    "description": "Легкий аромат кофе с мягким согревающим молоком",
+    "price": 6,
+    "img": "https://imgs.coffeemania.ru/822087/300x200.jpg?p=4ef1ddb7103bf8b"
+  },
+  {
+    "id": "5",
+    "title": "Флэт Уайт",
+    "vendor_code": "5",
+    "description": "Идеальный баланс молока и кофе",
+    "price": 5,
+    "img": "https://imgs.coffeemania.ru/822136/300x200.jpg?p=98e7a418eda2408"
+  },
+  {
+    "id": "6",
+    "title": "Раф",
+    "vendor_code": "6",
+    "description": "Бариста приготовит по идеальному рецепту",
+    "price": 7,
+    "img": "https://imgs.coffeemania.ru/822164/300x200.jpg?p=9c46a16332e8459"
+  },
+  {
+    "id": "7",
+    "title": "Какао",
+    "vendor_code": "7",
+    "description": "Для тех, кто не любит кофе, но любит нашу атмосферу",
+    "price": 8,
+    "img": "https://imgs.coffeemania.ru/823017/300x200.jpg?p=c83c60912e3bb81"
+  },
+  {
+    "id": "8",
+    "title": "Матча Латте",
+    "vendor_code": "8",
+    "description": "Бодрит не хуже чашечки кофе",
+    "price": 9,
+    "img": "https://imgs.coffeemania.ru/824336/300x200.jpg?p=f52fda02e76977a"
+  },
+  {
+    "id": "9",
+    "title": "Латте Киндер",
+    "vendor_code": "9",
+    "description": "Для любителей сладкого",
+    "price": 8,
+    "img": "https://imgs.coffeemania.ru/822345/300x200.jpg?p=e40531e79c00ad9"
+  }
+]
